@@ -5,7 +5,7 @@ This repository contains a Desktop Voice Assistant built in Python, created and 
 A feature-rich virtual assistant built using Python. This project uses speech recognition to understand voice commands and text-to-speech to respond. 
 It can perform various tasks such as opening system applications, browsing the web, providing information, and controlling system settings.
 
-✨ Features
+✨ Features:
 Voice Interaction: Uses the Google Speech Recognition API to listen to commands and the pyttsx3 library to speak responses.
 Greeting System: Dynamically greets the user ("Aalhad") based on the time of day (Morning, Afternoon, Evening).
 Web Browsing: Quickly opens popular websites like YouTube, Google, and Stack Overflow.
