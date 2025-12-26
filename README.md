@@ -12,7 +12,7 @@ Web Browsing: Quickly opens popular websites like YouTube, Google, and Stack Ove
 
 System Control: Opens native Windows applications like Notepad, Command Prompt, and Calculator.
 
-Information Retrieval:
+ℹ️ Information Retrieval:
 
 Fetches summaries from Wikipedia.
 
@@ -20,7 +20,7 @@ Tells the current time and date.
 
 Tells random programming jokes.
 
-Media & Utilities:
+📝 Media & Utilities:
 
 Plays music from a local directory.
 
@@ -28,7 +28,7 @@ Takes screenshots and saves them with timestamps.
 
 System Power: Can schedule a system shutdown or cancel it via voice command.
 
-Prerequisites
+🗒️ Prerequisites
 
 Python 3.x installed on your machine.
 
@@ -38,9 +38,9 @@ Speakers/Headphones for voice output.
 
 Windows OS (The code utilizes Windows-specific system paths and commands like sapi5, notepad.exe, and shutdown /s).
 
-Installation:
+⬇️ Installation:
 
-Clone the repository (or download the script).
+Clone the repository : https://github.com/aalhadramteke/MyVoiceAssistant-Prototype.git
 
 Use the following voice commands:
 
