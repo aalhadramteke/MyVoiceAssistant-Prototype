@@ -1,15 +1,14 @@
 # MyVoiceAssistant-Prototype
-This repository contains a Desktop Voice Assistant built in Python, created and managed by Aalhad Ramteke.
 
-🎙️ Desktop Voice Assistant
 A feature-rich virtual assistant built using Python. This project uses speech recognition to understand voice commands and text-to-speech to respond. 
 It can perform various tasks such as opening system applications, browsing the web, providing information, and controlling system settings.
 
-✨ Features:
-Voice Interaction: Uses the Google Speech Recognition API to listen to commands and the pyttsx3 library to speak responses.
-Greeting System: Dynamically greets the user ("Aalhad") based on the time of day (Morning, Afternoon, Evening).
-Web Browsing: Quickly opens popular websites like YouTube, Google, and Stack Overflow.
-System Control: Opens native Windows applications like Notepad, Command Prompt, and Calculator.
+Features:
+1.Voice Interaction: Uses the Google Speech Recognition API to listen to commands and the pyttsx3 library to speak responses.
+2.Greeting System: Dynamically greets the user ("Aalhad") based on the time of day (Morning, Afternoon, Evening).
+3.Web Browsing: Quickly opens popular websites like YouTube, Google, and Stack Overflow.
+4.System Control: Opens native Windows applications like Notepad, Command Prompt, and Calculator.
+
 Information Retrieval:
 Fetches summaries from Wikipedia.
 Tells the current time and date.
@@ -20,16 +19,16 @@ Plays music from a local directory.
 Takes screenshots and saves them with timestamps.
 System Power: Can schedule a system shutdown or cancel it via voice command.
 
-🛠️ Prerequisites
+Prerequisites
 Python 3.x installed on your machine.
 Microphone for voice input.
 Speakers/Headphones for voice output.
 Windows OS (The code utilizes Windows-specific system paths and commands like sapi5, notepad.exe, and shutdown /s).
 
-📦 Installation
+Installation:
 Clone the repository (or download the script).
 
-🚀 Usage
+Usage:
 
 Use the following voice commands:
 
@@ -49,8 +48,8 @@ Use the following voice commands:
 "Cancel shutdown"	Cancels the active shutdown timer.
 "Exit" / "Quit" / "Stop"	Closes the assistant.
 
-👨‍💻 Credits
+👨‍💻 Credits:
 Created and developed by Aalhad M. Ramteke.
 
-📝 License
+📝 License:
 This project is open-source and available for educational purposes.
